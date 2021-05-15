@@ -4,7 +4,7 @@ canvas.width = 800;
 canvas.height = 450;
 
 const image1 = new Image();
-image1.src = 'image1.png';
+image1.src = 'THRANDY.png';
 
 image1.addEventListener('load', function(){
     ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
